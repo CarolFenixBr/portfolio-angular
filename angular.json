@@ -26,7 +26,7 @@
             "tsConfig": "tsconfig.app.json",
             "inlineStyleLanguage": "scss",
             "assets": [
-              "src/meufacicon.ico",
+              "src/facicon.ico",
               "src/assets"
             ],
             "styles": [
