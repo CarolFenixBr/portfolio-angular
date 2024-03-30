@@ -38,6 +38,17 @@ public arrayKnowledge = signal<IKnowledge[]>([
       src:'assets/icons/python.svg',
       alt: 'ícones de conhecimento Python',
     },
-
+    {
+      src:'assets/icons/postgresql.svg',
+      alt: 'ícones de conhecimento PostgreSQL',
+    },
+    {
+      src:'assets/icons/figma.svg',
+      alt: 'ícones de conhecimento Figma',
+    },
+    {
+      src:'assets/icons/canva.svg',
+      alt: 'ícones de conhecimento Canva',
+    },    
   ]);
 }

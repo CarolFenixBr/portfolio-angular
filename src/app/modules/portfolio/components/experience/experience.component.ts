@@ -15,12 +15,12 @@ public arrayExperiences = signal<IExperiences[]>([
         b:'Estágio em TI',
         p:'InvestSmart XP | Set 2023 - Presente',
       },
-      text:'<p>Desenvolvimento Web front-end e back-end(Full stack) com HTML, CSS, Javascript e PHP; Bitrix24; Design UX/UI utilizando ferramentas como Figma, Canva e Adobe Express; Layout de e-mails; Gestão de projetos com metodologia scrum, Kanban, e com daily e apresentação; Automações de sistemas; Tally formulários; Suporte ao sistema Bitrix24(Digisac).</p>',
+      text:'<p>Desenvolvimento Web front-end e back-end(full stack) com HTML,CSS, Javascript e PHP; Bitrix24; Design UX/UI utilizando ferramentas como Figma, Canva e Adobe Express; Layout de e-mails; Gestão de projetos com metodologia scrum, Kanban, e com daily e apresentação; Automações de sistemas; Tally formulários; Suporte ao sistema Bitrix24(Digisac).</p>',
     },
       {
         sumary: {
           b:'Chefe de Setor',
-          p:'Prefeitura Municipal de São Gonçalo | Set 2023 - Presente',
+          p:'Prefeitura Municipal de São Gonçalo | Out 2014 - Set 2015',
         },
         text:'<p>Administração organizacional do departamento, incluindo a gestão, atendimento, recepção, computação, e estoque.</p>',
       },
