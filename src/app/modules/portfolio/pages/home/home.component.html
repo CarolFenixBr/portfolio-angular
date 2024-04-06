@@ -3,4 +3,16 @@
 <main>
     <app-knowledge/>
     <app-experience/>
+
+    @defer (on viewport) {
+        <app-projects/>        
+    }@placeholder {
+        <section>
+            <h2>Carregando os projetos desenvolvidos...</h2>
+        </section>
+    }@error {
+        <section>
+            <h2>Ocorreu um erro, tente novamente</h2>
+        </section>
+    }
 </main>
