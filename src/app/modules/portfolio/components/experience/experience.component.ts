@@ -10,10 +10,17 @@ import { IExperiences } from '../../interface/Experiences.interface';
 })
 export class ExperienceComponent {
 public arrayExperiences = signal<IExperiences[]>([
+  {
+    sumary: {
+      b:'Estágio em Desenvolvimento',
+      p:'IBM | Maio 2024 - Presente',
+    },
+    text:'<p>Desenvolvimento .</p>',
+  },
     {
       sumary: {
         b:'Estágio em TI',
-        p:'InvestSmart XP | Set 2023 - Presente',
+        p:'InvestSmart XP | Set 2023 - Abril 2024',
       },
       text:'<p>Desenvolvimento Web front-end e back-end(full stack) com HTML,CSS, Javascript e PHP; Bitrix24; Design UX/UI utilizando ferramentas como Figma, Canva e Adobe Express; Layout de e-mails; Gestão de projetos com metodologia scrum, Kanban, e com daily e apresentação; Automações de sistemas; Tally formulários; Suporte ao sistema Bitrix24(Digisac).</p>',
     },
